@@ -1,5 +1,4 @@
 ## **Slym B.**  
-### Directeur Artistique | Consultant Numérique
 
 ![Language](https://img.shields.io/badge/Language-Français_🇫🇷-181717?logo=translate)
 
@@ -32,16 +31,15 @@ Je suis un directeur artistique et consultant numérique, passionné par la cré
 [![Website](https://img.shields.io/badge/🌐_Site_web-grey?logo=network)](https://slym-artdirector.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-slymb-181717?logo=github)](https://github.com/slym-b)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/company/slym-art-director/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/slym.artdirector)
+
 
 ---
-
-### Art Director | Digital Advisor
 
 ![Language](https://img.shields.io/badge/Language-English_🇬🇧-181717?logo=translate)
 
 ### 💡 About Me
 I am an art director and digital consultant passionate about visual creation and IT systems. My journey has allowed me to explore various aspects of digital work, combining graphic design, system administration, and web development.
+
 
 #
 
@@ -69,5 +67,4 @@ I am an art director and digital consultant passionate about visual creation and
 [![Website](https://img.shields.io/badge/🌐_Website-grey?logo=network)](https://slym-artdirector.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-slymb-181717?logo=github)](https://github.com/slym-b)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/company/slym-art-director/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/slym.artdirector)
 
