@@ -1,5 +1,8 @@
+<div align="center">
+
 ## **Slym B.**  
 
+![Language](https://img.shields.io/badge/Language-Français_🇫🇷-181717?logo=translate)
 ![Language](https://img.shields.io/badge/Language-English_🇬🇧-181717?logo=translate)
 
 ### 💡 About Me
@@ -33,6 +36,6 @@ I am an art director and digital consultant passionate about visual creation and
 
 ### 🔗 Contact & Social Media
 [![Website](https://img.shields.io/badge/🌐_Website-grey?logo=network)](https://slym-artdirector.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-slymb-181717?logo=github)](https://github.com/slym-b)
+[![GitHub](https://img.shields.io/badge/GitHub-slymb-181717?logo=github)](https://github.com/slymb)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/company/slym-art-director/)
 
