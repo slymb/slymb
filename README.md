@@ -23,10 +23,7 @@ I am an art director and digital consultant passionate about visual creation and
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
-[![AWS](https://img.shields.io/badge/S3-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![S3](https://img.shields.io/badge/S3-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Apple Configurator](https://img.shields.io/badge/Configurator_2-9933CC?&logo=apple&logoColor=white)](#)
 
 #
