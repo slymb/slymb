@@ -19,9 +19,9 @@ I am an art director and digital consultant passionate about visual creation and
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://github.com/ubuntu)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://github.com/docker)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://github.com/nodejs/node)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](https://github.com/cloudflare)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](https://github.com/wordpress)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](#)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://github.com/topics/javascript)
 [![S3](https://img.shields.io/badge/S3-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 [![Apple Configurator](https://img.shields.io/badge/Configurator_2-9933CC?&logo=apple&logoColor=white)](#)
 
