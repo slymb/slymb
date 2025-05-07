@@ -29,6 +29,6 @@ I am an art director and digital consultant passionate about visual creation and
 
 ### 🔗 Contact & Social Media
 [![Slym B. the Blog](https://img.shields.io/badge/🌐_My_Blog-grey?logo=network)](https://slymn.net)
-[![Art director website](https://img.shields.io/badge/🌐_Art_director_website-grey?logo=network)](https://slym-artdirector.com/)
+[![Art director website](https://img.shields.io/badge/🌐_Art_director_website-grey?logo=network)](https://artdirector.fr/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/company/slym-art-director/)
 [![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/slymb)
